@@ -1,0 +1,182 @@
+.app-wrapper{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 622px;
+    margin: 7px auto;
+    background: #FFF;
+}
+
+.h{
+    background: #000000;
+    width: 368px;
+    height: 1px;
+    margin-top: -24px;
+}
+
+.sidebar-dreapta{
+    padding-left: 13px;
+    padding-right: 7px;
+    padding-top: 17px;
+    padding-bottom: 139px;
+}
+
+.nume{
+    padding-top: 7px;
+    color: #000000;
+    font-family: Poppins;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.specializare{
+    color: var(--main-color, #FFA200);
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.profil{
+    width: 338px;
+    color: #000000;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.paragraf{
+    color: #000000;
+    font-family: Poppins;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: -5px;
+}
+
+.data{
+    color: #000000;
+    font-family: Poppins;
+    font-size: 9px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: -15px;
+}
+
+.li{
+    color: #000;
+    font-family: Montserrat;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+.link{
+    color: #595959;
+    font-family: Montserrat;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    text-decoration-line: underline;
+}
+
+.punct{
+    color: #ababab;
+    width: 112.389px;
+    height: 46.745px;
+    flex-shrink: 0;
+}
+
+.span{
+    color: #000;
+    font-family: Montserrat;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.h4{
+    color: #000;
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+
+
+
+
+
+
+
+.sidebar-stanga{
+    background: #333132;
+    padding-left: 23px;
+    padding-top: 25px;
+}
+
+.imagine{
+    padding-left: 10px;
+    flex-shrink: 0;
+    border-radius: 50%;
+}
+
+.contact{
+    display: flex;
+    padding-top: 20px;
+}
+
+.c{
+    display:flex;
+    padding-top: 5px;
+}
+
+.ellipse{
+    padding-left: 25px;
+}
+
+.phone{
+    margin-left: -17px;
+}
+.nr{
+    padding-left: 9px;
+}
+
+.h3{
+    padding-left: 35px;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-left: -30px;
+    margin-top: -0px;
+}
+.hr{
+    background: #FFF;
+    width: 169px;
+    height: 1px;
+    margin-top: -10px;
+}
+
+.lista {
+    color: #FFF;
+    font-family: Lato;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    list-style-image: url("Ellipse6.png");
+}
